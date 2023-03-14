@@ -1,0 +1,15 @@
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\Конрольная работа выбор специализации.csproj.AssemblyReference.cache
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\Конрольная работа выбор специализации.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\Конрольная работа выбор специализации.AssemblyInfoInputs.cache
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\Конрольная работа выбор специализации.AssemblyInfo.cs
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\Конрольная работа выбор специализации.csproj.CoreCompileInputs.cache
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\bin\Debug\net6.0\Конрольная работа выбор специализации.exe
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\bin\Debug\net6.0\Конрольная работа выбор специализации.deps.json
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\bin\Debug\net6.0\Конрольная работа выбор специализации.runtimeconfig.json
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\bin\Debug\net6.0\Конрольная работа выбор специализации.dll
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\bin\Debug\net6.0\Конрольная работа выбор специализации.pdb
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\Конрольная работа выбор специализации.dll
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\refint\Конрольная работа выбор специализации.dll
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\Конрольная работа выбор специализации.pdb
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\Конрольная работа выбор специализации.genruntimeconfig.cache
+C:\Users\aagur\OneDrive\Документы\Конрольная работа выбор специализации\obj\Debug\net6.0\ref\Конрольная работа выбор специализации.dll
